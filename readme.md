@@ -28,10 +28,12 @@ SO THAT I can organize and plan my business
 ```
 
 # Demo :
-[demo video](https://youtu.be/XFGnKl9anXs)
+![](\assets\images/aa.gif)
 
 # Application Preview : 
-[preview](https://youtu.be/XFGnKl9anXs)
+[CLICK HERE FOR: preview](https://youtu.be/XFGnKl9anXs)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XFGnKl9anXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 # Technology : 
