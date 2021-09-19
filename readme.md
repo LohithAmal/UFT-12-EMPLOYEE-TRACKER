@@ -33,7 +33,7 @@ SO THAT I can organize and plan my business
 # Application Preview : 
 [CLICK HERE FOR: preview](https://youtu.be/XFGnKl9anXs)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XFGnKl9anXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Employee Tracker](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://img.youtube.com/vi/XFGnKl9anXs/0.jpg)
 
 
 # Technology : 
