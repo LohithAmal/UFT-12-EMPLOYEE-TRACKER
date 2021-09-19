@@ -1,4 +1,5 @@
 # Employee Tracker
+![](/assets/images/ab.JPG)
 
 
 
@@ -7,7 +8,7 @@
 This is a **employee tracker** application build with technologies such as MySQL, npm packages(inquirer, console.table).
 
 ## Deployed Application :
-[Github repository clich here](https://github.com/LohithAmal/UFT-12-EMPLOYEE-TRACKER/settings/pages)
+[Github repository click here](https://github.com/LohithAmal/UFT-12-EMPLOYEE-TRACKER/settings/pages)
 
 
 # Table of Contents
@@ -28,12 +29,13 @@ SO THAT I can organize and plan my business
 ```
 
 # Demo :
-![](\assets\images/aa.gif)
+
+![](/assets/images/aa.gif)
 
 # Application Preview : 
-[CLICK HERE FOR: preview](https://youtu.be/XFGnKl9anXs)
+**[VIDEO PREVIEW CLICK HERE](https://youtu.be/XFGnKl9anXs)**
 
-[![Employee Tracker](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://img.youtube.com/vi/XFGnKl9anXs/0.jpg)
+
 
 
 # Technology : 
