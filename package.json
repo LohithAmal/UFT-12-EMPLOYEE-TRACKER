@@ -1,0 +1,25 @@
+{
+  "name": "12-employeetracker",
+  "version": "1.0.0",
+  "description": "This is an employee tracker app build using MySQL database, javascript , inquirer(npm package)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LohithAmal/UFT-12-EMPLOYEE-TRACKER.git"
+  },
+  "author": "Amal Lohith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LohithAmal/UFT-12-EMPLOYEE-TRACKER/issues"
+  },
+  "homepage": "https://github.com/LohithAmal/UFT-12-EMPLOYEE-TRACKER#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.1.5",
+    "mysql2": "^2.3.0"
+  }
+}
